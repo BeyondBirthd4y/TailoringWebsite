@@ -1,0 +1,251 @@
+header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+#menum ul{
+	list-style: none;
+	display: inline;
+    font: normal  12pt Verdana;
+    text-align: right;
+    margin-left: 500px;
+}
+
+#menum ul li{
+    text-align: center;
+	display: inline;
+}
+
+#menum ul li a{
+	padding: 5px 10px;
+	display: inline-block;
+	text-decoration: none;
+	color: rgb(65, 65, 65);
+}
+
+#menum{
+    height: 80px;
+}
+main{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    color: white;
+    font-family: 'Century Gothic';
+    font: normal  12pt 'Century Gothic';
+}
+#biografia{
+    background-color: white;
+    height: 400px;
+}
+
+#orçamento{
+    background-color: rgb(22, 53, 94);
+    color: beige;
+    font: normal  12pt Verdana;
+    height: 45px;
+    width: 60;
+    border: none !important;
+}
+
+#principal{
+    margin-left: 70px;
+    width: 300px;
+    margin-top: 3%;
+    background-color: black;
+}
+
+#principal h2{
+    color: rgb(14, 34, 59);
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#slogan{
+    size: 16px;
+}
+
+#ReneeTrajar {
+    margin-top: 55px;
+}
+
+#alfaiate{
+    margin-left: 550px;
+    width: 700px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+#alfaiate input{
+    color:rgb(22, 53, 94);
+    border-color: rgb(22, 53, 94);
+    height: 45px;
+    width: 260px;
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    font-size: 18px;
+    font-weight: 50;
+}
+
+#condicao{
+    background-color: rgb(14, 34, 59);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#condicao p{
+    color: rgb(196, 168, 97);
+    margin-left: 140px;
+    font: normal 14px Verdana;
+}
+
+#condicao h1{
+    color: goldenrod;
+    margin-left: 120px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 20;
+    font-size: 40px;
+}
+
+#condicao input{
+    margin-left: 120px;
+    background-color: goldenrod;
+    height: 40px;
+    color: whitesmoke;
+    font: normal 14px Verdana;
+    border: none !important;
+}
+#depoimentoNelson {
+    font: 16px Verdana;
+}
+
+#NelsonGarey{
+    background-color: rgb(174, 221, 252);
+}
+
+#principios{
+    height: 225px;
+}
+#principios ul{
+    list-style: none;
+	display: inline;
+    font: normal  12pt Verdana;
+    text-align: center;
+    margin-left: 100px;
+}
+#principios ul li{
+    text-align: center;
+	display: inline;
+    margin: 150px;
+}
+
+#empresa{
+    display: inline-block;
+}
+
+#empresa input{
+    color:rgb(22, 53, 94);
+    background-color: white;
+    width: 300px;
+    height: 45px;
+    font-size:15px;
+    border-color:rgb(22, 53, 94);
+    border-width: 0.1mm;
+}
+
+#deixarContato{
+    text-align: center;
+}
+
+#deixarContato input{
+    margin-bottom: 10px;
+    width: 500px;
+    height: 45px;
+}
+
+#dadosdaEmpresa{
+    margin-left: 200px;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#camalf h1{
+    font-size: 60px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(22, 53, 94);
+}
+
+#camisaria{
+    margin-left: 700px;
+    margin-bottom: 0;
+    color: dimgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#camisaria h1{
+    margin:0;
+}
+
+#camisaria ul{
+    columns: 2;
+}
+
+#camisaria input{
+    color:white;
+    background-color: rgb(22, 53, 94);
+    width: 300px;
+    height: 45px;
+    font-size:17px;
+    font-weight: 100;
+    border: none !important;
+}
+
+#alfaiataria {
+    margin-left: 100px;
+    margin-right: 700px;
+    color: dimgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#alfaiataria h1{
+    margin:0;
+}
+
+#alfaiataria ul{
+    columns: 2;
+    width: 100;
+}
+
+#alfaiataria input{
+    color:white;
+    background-color: rgb(22, 53, 94);
+    width: 300px;
+    height: 45px;
+    font-size:17px;
+    font-weight: lighter;
+    border: none !important;
+}
+
+#Depoimentos{
+    background-color: rgb(14, 34, 59);
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+#Depoimentos h2{
+    font-size: 30px;
+}
+#Depoimentos p{
+    margin-left: 400px;
+    width: 580px;
+    font-size: 18px;
+}
+
+#fotoDepoimento{
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 110px;
+    margin-left: 600px;
+}
